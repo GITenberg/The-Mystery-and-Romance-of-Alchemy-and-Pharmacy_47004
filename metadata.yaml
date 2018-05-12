@@ -1,10 +1,16 @@
 _repo: The-Mystery-and-Romance-of-Alchemy-and-Pharmacy_47004
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47004-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Charles John Samuel
     gutenberg_agent_id: '44090'
     url: http://www.gutenberg.org/2009/agents/44090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47004#The-Mystery-and-Romance-of-Alchemy-and-Pharmacy
 gutenberg_issued: '2014-09-29'
 gutenberg_type: Text
 identifiers:
